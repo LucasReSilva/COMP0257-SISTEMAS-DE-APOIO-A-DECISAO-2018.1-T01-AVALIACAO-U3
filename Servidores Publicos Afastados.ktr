@@ -936,7 +936,7 @@
       <nullisblank>N</nullisblank>
       <protect_sheet>N</protect_sheet>
       <password>Encrypted </password>
-      <splitevery>0</splitevery>
+      <splitevery>5000</splitevery>
       <usetempfiles>N</usetempfiles>
       <tempdirectory/>
     </file>
